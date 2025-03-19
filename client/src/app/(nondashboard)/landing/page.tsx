@@ -5,7 +5,7 @@ import DiscoverSection from "./DiscoverSection";
 import CallToActionSection from "./CallToActionSection";
 import FooterSection from "./FooterSection";
 
-const page = () => {
+const Landing = () => {
   return (
     <div>
       <HeroSection />
@@ -17,4 +17,4 @@ const page = () => {
   );
 };
 
-export default page;
+export default Landing;
